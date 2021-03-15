@@ -2,7 +2,7 @@
 
 **Instagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 - [x] User can sign up to create a new account using Parse authentication.
 - [x] User can log in and log out of his or her account.
 - [x] The current signed in user is persisted across app restarts.
-- [ ] User can take a photo, add a caption, and post it to "Instagram".
+- [x] User can take a photo, add a caption, and post it to "Instagram". 
 
 The following **optional** features are implemented:
 
@@ -22,6 +22,10 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+
+	I am having trouble getting the photo taken to display on the MainActivity. I think I have to resize it, but I tried to make it work. I am running out of time, 
+but I will definitely have it working as well for instagram part 2. Everything that has been written on the app and post it on the app have been successfully added to the back4app.
+
 
 ## Video Walkthrough
 
