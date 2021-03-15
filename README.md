@@ -31,7 +31,7 @@ but I will definitely have it working as well for instagram part 2. Everything t
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Auraiporn/Instagram/blob/main/GIF-210314_203030.mp4' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
